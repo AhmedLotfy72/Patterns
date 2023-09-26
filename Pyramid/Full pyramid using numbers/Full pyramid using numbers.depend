@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695685301 source:d:\embedded\c projects\patterns\pyramid\full pyramid using numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

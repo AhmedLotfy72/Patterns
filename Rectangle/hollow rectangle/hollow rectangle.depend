@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1691645371 source:d:\embedded\c projects\patterns\hollow rectangle\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1691645371 source:d:\embedded\c projects\patterns\rectangle\hollow rectangle\main.c
+	<stdio.h>
+	<stdlib.h>
+

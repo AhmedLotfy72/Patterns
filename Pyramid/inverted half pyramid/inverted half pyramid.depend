@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1691877653 source:d:\embedded\c projects\patterns\inverted half pyramid\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1691877719 source:d:\embedded\c projects\patterns\pyramid\inverted half pyramid\main.c
+	<stdio.h>
+	<stdlib.h>
+

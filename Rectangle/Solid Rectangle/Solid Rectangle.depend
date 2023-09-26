@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691634948 source:d:\embedded\c projects\patterns\solid rectangle\main.c
+	<stdio.h>
+	<stdlib.h>
+

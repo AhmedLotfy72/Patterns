@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1691884637 source:d:\embedded\c projects\patterns\full pyramid\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1691884637 source:d:\embedded\c projects\patterns\pyramid\full pyramid\main.c
+	<stdio.h>
+	<stdlib.h>
+

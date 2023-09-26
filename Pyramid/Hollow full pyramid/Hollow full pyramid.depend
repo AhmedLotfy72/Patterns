@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691887813 source:d:\embedded\c projects\patterns\hollow full pyramid\main.c
+	<stdio.h>
+	<stdlib.h>
+

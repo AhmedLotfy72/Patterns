@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691886627 source:d:\embedded\c projects\patterns\inverted full pyramid\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695594880 source:d:\embedded\c projects\patterns\pyramid\inverted half pyramid using numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+
